@@ -11,7 +11,7 @@ import { useNavigate } from "react-router-dom";
     const navItems= [
         {
             name: 'Home' ,
-            slug: "/" ,
+            slug: "/home" ,
             active: true
         },
         {
